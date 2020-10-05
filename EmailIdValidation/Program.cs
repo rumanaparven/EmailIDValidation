@@ -6,7 +6,12 @@ namespace EmailIdValidation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to emailID validation problem.");
+            
+                Console.WriteLine("Enter the emailId : ");
+                string email = Console.ReadLine();
+                RegEx re = new RegEx();
+                re.EmailIdValidation(email);
+
             
 
         }
