@@ -12,8 +12,6 @@ namespace EmailIdValidation
                 RegEx re = new RegEx();
                 re.EmailIdValidation(email);
 
-            
-
         }
     }
 }

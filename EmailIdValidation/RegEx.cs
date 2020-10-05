@@ -9,8 +9,8 @@ namespace EmailIdValidation
     {
         public void EmailIdValidation(string emailid)
         {
-            Regex reg = new Regex("^([a-z\\d-\\.]+)@([a-z\\d-]+)\\.([a-z]+)(\\.[a-z])?");
-            if (reg.IsMatch(emailid))
+            Regex re = new Regex("^([a-z\\d-\\.]+)@([a-z\\d-]+)\\.([a-z]+)(\\.[a-z])?");
+            if (re.IsMatch(emailid))
             {
                 Console.WriteLine("Valid EmailId");
             }
