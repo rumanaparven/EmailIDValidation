@@ -1,0 +1,13 @@
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\bin\Debug\netcoreapp3.1\EmailIdValidation.exe
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\bin\Debug\netcoreapp3.1\EmailIdValidation.deps.json
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\bin\Debug\netcoreapp3.1\EmailIdValidation.runtimeconfig.json
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\bin\Debug\netcoreapp3.1\EmailIdValidation.runtimeconfig.dev.json
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\bin\Debug\netcoreapp3.1\EmailIdValidation.dll
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\bin\Debug\netcoreapp3.1\EmailIdValidation.pdb
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\obj\Debug\netcoreapp3.1\EmailIdValidation.csprojAssemblyReference.cache
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\obj\Debug\netcoreapp3.1\EmailIdValidation.AssemblyInfoInputs.cache
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\obj\Debug\netcoreapp3.1\EmailIdValidation.AssemblyInfo.cs
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\obj\Debug\netcoreapp3.1\EmailIdValidation.csproj.CoreCompileInputs.cache
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\obj\Debug\netcoreapp3.1\EmailIdValidation.dll
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\obj\Debug\netcoreapp3.1\EmailIdValidation.pdb
+C:\Users\RUMANA\source\repos\EmailIdValidation\EmailIdValidation\obj\Debug\netcoreapp3.1\EmailIdValidation.genruntimeconfig.cache

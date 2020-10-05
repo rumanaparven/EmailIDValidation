@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailIdValidation", "EmailIdValidation\EmailIdValidation.csproj", "{1DE92781-49EB-4623-88A3-6AC0D3244645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE92781-49EB-4623-88A3-6AC0D3244645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE92781-49EB-4623-88A3-6AC0D3244645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE92781-49EB-4623-88A3-6AC0D3244645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE92781-49EB-4623-88A3-6AC0D3244645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53353502-5D31-4772-915B-604E05318A4B}
+	EndGlobalSection
+EndGlobal
